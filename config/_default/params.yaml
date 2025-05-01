@@ -54,9 +54,6 @@ locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
 
-style:
-  theme: custom-dark
-
 palette:
   primary: "#000000"
   secondary: "#111111"

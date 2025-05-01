@@ -53,3 +53,16 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
+
+style:
+  theme: custom-dark
+
+palette:
+  primary: "#000000"
+  secondary: "#111111"
+  background: "#000000"
+  text: "#f0f0f0"
+  link: "#1db954"
+  navbar: "#000000"
+  footer: "#111111"
+  border: "#333333"
